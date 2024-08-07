@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bawa/static/css/main.c3bc3345.css",
+    "main.js": "/Bawa/static/js/main.45eeb226.js",
+    "static/js/453.56f46472.chunk.js": "/Bawa/static/js/453.56f46472.chunk.js",
+    "index.html": "/Bawa/index.html",
+    "main.c3bc3345.css.map": "/Bawa/static/css/main.c3bc3345.css.map",
+    "main.45eeb226.js.map": "/Bawa/static/js/main.45eeb226.js.map",
+    "453.56f46472.chunk.js.map": "/Bawa/static/js/453.56f46472.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3bc3345.css",
+    "static/js/main.45eeb226.js"
+  ]
+}
